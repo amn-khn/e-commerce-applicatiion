@@ -41,4 +41,16 @@ http://127.0.0.1:8000/
 Academic / Learning Project
 
 ## Author
-Uploaded by: Your Name
+Uploaded by: aman khan
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Registration Page
+![Registration Page](screenshots/Registration.png)
+
+### Login Page
+![Product Page](screenshots/loginpage.png)
+### Database view
+![Database View](screenshots/databaseview.png)
